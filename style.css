@@ -1,0 +1,28 @@
+.salary-summary {
+    margin: 20px 0;
+    background: #e9f5ff;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+.salary-summary p {
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+.work-log table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.work-log table th, .work-log table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.work-log table th {
+    background: #f4f4f4;
+}
