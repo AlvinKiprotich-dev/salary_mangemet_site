@@ -1,4 +1,4 @@
-module salary_mangemet_site
+module salary-management-system
 
 go 1.23.3
 
